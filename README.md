@@ -10,9 +10,8 @@ This website showcases my professional journey, technical skills, certifications
 
 ## 🚀 Live Website
 
-Visit the portfolio:
-https://hacker-ram8867.github.io/MyCyberPortfolio/
----
+Visit live portfolio:
+https://hacker-ram8867.github.io/MyCyberportfolio/---
 
 ## 🛠️ Built With
 
